@@ -42,4 +42,4 @@ bower_components
 Thumbs.db
 
 # ignore
-.database.db
+database.db
